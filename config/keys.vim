@@ -15,5 +15,3 @@ imap     <F10> <C-O>:set paste<CR>
 map      <F11> :set nopaste<CR>
 imap     <F11> <nop>
 set pastetoggle=<F11>
-
-
