@@ -17,7 +17,6 @@ Plug 'ervandew/supertab'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'jeffkreeftmeijer/vim-numbertoggle'
-Plug 'jiangmiao/auto-pairs'
 Plug 'mbbill/undotree'
 
 " programming
