@@ -27,6 +27,7 @@ Plug 'Shougo/neosnippet-snippets'
 Plug 'honza/vim-snippets'
 Plug 'neomake/neomake'
 Plug 'ludovicchabant/vim-gutentags'
+Plug 'fntlnz/atags.vim'
 
 " python
 Plug 'zchee/deoplete-jedi'
