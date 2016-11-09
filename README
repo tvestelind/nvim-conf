@@ -1,7 +1,7 @@
 My nvim configuration files.
 
 Prerequisites:
-apt-get install python3 python3-pip ctags
+apt-get install python3 python3-pip ctags silversearcher-ag
 pip3 install neovim
 
 Install fonts:
