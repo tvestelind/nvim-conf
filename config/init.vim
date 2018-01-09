@@ -42,4 +42,7 @@ Plug 'hdima/python-syntax', { 'for': 'python' }
 " rust
 Plug 'rust-lang/rust.vim', { 'for': 'rust' }
 
+" php
+Plug 'StanAngeloff/php.vim', { 'for': 'php' }
+
 call plug#end()
