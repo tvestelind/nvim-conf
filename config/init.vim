@@ -15,7 +15,7 @@ Plug 'vim-airline/vim-airline-themes'
 "" colorscheme
 Plug 'flazz/vim-colorschemes'
 "" better grep:ing
-Plug 'numkil/ag.nvim' " search files using ag
+Plug 'mileszs/ack.vim'
 
 " editing
 "" tab completion

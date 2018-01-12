@@ -5,6 +5,7 @@ xmap <C-k> <Plug>(neosnippet_expand_target)
 nmap <C-k> :bn<CR>
 nmap <C-j> :bp<CR>
 nmap <C-f> :Files<CR>
+nmap <C-g> :Ack 
 
 " Function keys
 nnoremap <F4> :%s/\s\+$//e<CR>

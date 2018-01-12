@@ -16,3 +16,6 @@ let g:deoplete#sources#jedi#show_docstring = 1
 " neomake
 let g:neomake_python_enabled_makers = ['flake8']
 autocmd! BufWritePost * Neomake
+
+" ack
+let g:ackprg = 'ag --vimgrep'
