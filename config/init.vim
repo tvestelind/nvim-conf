@@ -31,7 +31,7 @@ Plug 'Shougo/deoplete.nvim'
 Plug 'Shougo/neosnippet'
 Plug 'Shougo/neosnippet-snippets'
 Plug 'honza/vim-snippets'
-Plug 'neomake/neomake'
+Plug 'tvestelind/neomake'
 Plug 'ludovicchabant/vim-gutentags'
 Plug 'fntlnz/atags.vim'
 
@@ -44,5 +44,6 @@ Plug 'rust-lang/rust.vim', { 'for': 'rust' }
 
 " php
 Plug 'StanAngeloff/php.vim', { 'for': 'php' }
+Plug 'stephpy/vim-php-cs-fixer', { 'for': 'php' }
 
 call plug#end()

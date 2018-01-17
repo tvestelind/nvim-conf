@@ -15,7 +15,14 @@ let g:deoplete#sources#jedi#show_docstring = 1
 
 " neomake
 let g:neomake_python_enabled_makers = ['flake8']
-autocmd! BufWritePost * Neomake
+let g:neomake_php_phpcs_args_standard = 'PSR2'
+let g:neomake_php_phpcs_args_warning_severity = 0
+let g:neomake_open_list = 2
+call neomake#configure#automake('w')
 
 " ack
 let g:ackprg = 'ag --vimgrep'
+
+" php-cs-fixer
+let g:php_cs_fixer_level = 'symfony'
+let g:php_cs_fixer_rules = '@PSR2'
