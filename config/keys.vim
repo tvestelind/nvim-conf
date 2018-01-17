@@ -5,7 +5,8 @@ xmap <C-k> <Plug>(neosnippet_expand_target)
 nmap <C-k> :bn<CR>
 nmap <C-j> :bp<CR>
 nmap <C-f> :Files<CR>
-nmap <C-g> :Ack 
+nmap <C-g> :Ack
+:nnoremap <silent> <C-n> :set relativenumber!<cr>
 
 " Function keys
 nnoremap <F4> :%s/\s\+$//e<CR>
