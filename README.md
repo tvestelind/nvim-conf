@@ -1,9 +1,20 @@
-My nvim configuration files.
+# nvim configuration files.
 
-Prerequisites:
+## Dependencies
+
+### General
+```bash
 sudo apt install python3 python3-pip ctags cscope silversearcher-ag
 pip3 install neovim
+```
 
-Install fonts:
+### PHP
+```bash
+sudo apt install php-codesniffer phpmd
+```
+
+## Install fonts:
+```bash
 git clone https://github.com/powerline/fonts.git powerline && cd powerline
 ./install.sh && fc-cache -fv
+```

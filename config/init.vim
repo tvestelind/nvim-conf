@@ -44,5 +44,6 @@ Plug 'rust-lang/rust.vim', { 'for': 'rust' }
 
 " php
 Plug 'StanAngeloff/php.vim', { 'for': 'php' }
+Plug 'joonty/vim-phpqa', { 'for': 'php' }
 
 call plug#end()
