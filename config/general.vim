@@ -18,3 +18,4 @@ set undofile
 set undolevels=100
 set undoreload=1000
 set wildmode=longest,list,full
+setlocal spell spelllang=en_us
