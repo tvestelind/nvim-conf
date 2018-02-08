@@ -15,7 +15,7 @@ Plug 'jeffkreeftmeijer/vim-numbertoggle'
 
 " programming
 Plug 'Shougo/deoplete.nvim'
-Plug 'tvestelind/neomake'
+Plug 'neomake/neomake'
 Plug 'ludovicchabant/vim-gutentags'
 
 " python
