@@ -4,7 +4,7 @@
 
 ### General
 ```bash
-sudo apt install python3 python3-pip ctags cscope silversearcher-ag
+sudo apt install python3 python3-pip universal-ctags cscope silversearcher-ag
 pip3 install neovim
 ```
 
