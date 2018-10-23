@@ -27,3 +27,6 @@ let g:ackprg = 'ag --vimgrep'
 " php-cs-fixer
 let g:php_cs_fixer_level = 'symfony'
 let g:php_cs_fixer_rules = '@PSR2'
+
+" gutentag
+let g:gutentags_project_info = []
