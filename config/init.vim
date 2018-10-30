@@ -33,4 +33,7 @@ Plug 'stephpy/vim-php-cs-fixer', {'for': 'php'}
 Plug 'Shougo/vimproc.vim', {'do': 'make'} " req. for. ghcmod-vim
 Plug 'eagletmt/ghcmod-vim', { 'for': 'haskell'}
 
+"elm
+Plug 'ElmCast/elm-vim', {'for': 'elm'}
+
 call plug#end()
